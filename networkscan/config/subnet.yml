@@ -1,0 +1,10 @@
+subnet:
+  home:
+    ip: 192.168.0.0
+    cidr: 30
+  home2:
+    ip: 192.168.0.1
+    cidr: 32
+  home3:
+    ip: 192.168.0.236
+    cidr: 32
